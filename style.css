@@ -1200,9 +1200,9 @@ header {
     width: 100%;
 }
 
-.navbar.affix .navbar-brand>img {
-    width: 85%;
-}
+/*.navbar.affix .navbar-brand>img {
+    width: 99%;
+}*/
 
 .navbar-nav li a {
     color: #fff;
@@ -1256,7 +1256,8 @@ header {
 }
 .home-style-2 .navbar.affix {
     background: #ffffff none repeat scroll 0 0;
-    height: 55px;
+    /*height: 55px;*/
+    padding: 1.1%;
 }
 
 .home-style-2 .navbar.affix li a {
@@ -2691,9 +2692,10 @@ Modal
     color: #4c5462;
     font-size: 18px;
     height: 50px;
-    width: 380px;
+    width: 50%;
     padding: 1px 50px 1px 50px;
     margin-left: 75px;
+    text-align: start;
 }
 
 .subscribe-box-2 .form-control-2 {
