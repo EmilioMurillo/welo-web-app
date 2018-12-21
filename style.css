@@ -180,7 +180,7 @@ h6 {
 }
 
 ul {
-    margin: 20px;
+    margin-top: 36px;
     padding: 0px;
 }
 
@@ -1572,6 +1572,13 @@ Modal
     margin-top: 0;
 }
 
+.centerPhone {
+  margin-left: -6%;
+}
+.centerPhoneRight {
+  margin-left: 8%;
+}
+
 
 /* =====================================
 5. APP ABOUT AREA
@@ -1611,7 +1618,7 @@ Modal
 }
 
 .about-app li {
-  margin-left: 35px;
+  margin-left: 4px;
   line-height: 30px;
   color: #a0a0a0;
   font-weight: 200;
@@ -1631,12 +1638,12 @@ Modal
   right: 80px;
   top: 0;
   margin-top: 5px;
-  margin-left: 55px;
+  margin-left: 3px;
 }
 
 .about-app span {
   color: #51d998;
-  margin-left: 55px;
+  margin-left: 1%;
   font-size: 16px;
 }
 
@@ -1708,9 +1715,9 @@ Modal
     font-weight: 700;
 }
 
-.about-app-mockup img {
+/*.about-app-mockup img {
     margin-left: auto;
-}
+}*/
 
 .gray-bg .btn.btn-bordered-grad:after {
     background: #f5f7fb none repeat scroll 0 0;
